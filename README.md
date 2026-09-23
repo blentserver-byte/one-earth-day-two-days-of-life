@@ -22,6 +22,8 @@ Nothing has been built. That is the invitation.
 
 — **Lee Nee Jie**, 2026
 
+*The idea, the dream it came from, and every design decision here are mine. I used AI as a drafting and translation tool while writing it down.*
+
 ---
 
 # Part One — The framework
