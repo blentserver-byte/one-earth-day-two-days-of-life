@@ -1,3 +1,7 @@
-posts/
-docs/
+# Local working material — never published.
+posts/     # launch drafts, EN + 中文
+docs/      # working snapshot of the framework
+pdf/       # rendered PDFs
+tools/     # the PDF renderer
+video/     # explainer pages (kept out by decision — video ships as video)
 .DS_Store
