@@ -88,6 +88,36 @@ The camp persists. Tomorrow night it is the next camp-day — same room, same lu
 
 So if you skip a night, the camp goes on without you. You return having missed a day. People moved. A group formed without you. Nobody had to design that as a penalty; it falls out of the structure.
 
+## A day, and four nights
+
+Everything above is structure. Here is what it looks like from inside.
+
+### A day in the camp
+
+You wake in your room. Your bag is where you left it, because you did not move last night.
+
+Mid-morning there is a class, and you do not choose who is in it. Today it is three people you have never spoken to — one of whom you had noticed in the cafés and never found a way to approach. Now you are in the same room for twenty minutes with something to do.
+
+At lunch nothing is assigned. You sit with her.
+
+Then your team's planning hour, which is closed, and she is not in it. Your three argue: one wants a city, one wants somewhere with nobody in it, one does not care as long as there is a long drive first. You settle on a coast road.
+
+After class you do something you have been circling for days — you move house. You carry everything across camp while people are still out. Some of them watch. Nobody asks. They are not allowed to.
+
+Then it is night, and you go.
+
+### Four nights
+
+**Four people, three hours.** They met over a week of lunches. They drive a coast road at dusk and eat on a cliff while the light goes. One of them turns out to be much better at ordering food than the rest. They are back before camp midnight, knowing a little more about each other than they did.
+
+**One person, two hours.** She is tired in her real life. She sets a winter beach in northern Japan, sets nobody else, and walks it. Nothing happens. Then she sleeps. This is a complete use of a night, not a failed one.
+
+**A family, a whole day.** A mother in Penang, her son in Melbourne, her sister in Taipei. Same night, same lake, dawn to dark, nobody checking a watch. They get more unhurried hours together than the year has given them.
+
+**Two people, the long way.** They have been circling each other for nine nights. They could teleport. One of them picks the six-hour train instead, and says so out loud, and the other one hears exactly what that means. Nothing to do but talk and watch the scenery move.
+
+That last one is the whole design in a paragraph: the vehicle said the thing the person could not.
+
 ## What the extra day is for
 
 The arithmetic is simple, and it is the whole ambition. Two days of life per Earth day is 730 days a year instead of 365.
