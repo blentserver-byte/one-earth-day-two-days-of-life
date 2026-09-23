@@ -1,7 +1,15 @@
 # Local working material — never published.
-posts/     # launch drafts, EN + 中文
-docs/      # working snapshot of the framework
-pdf/       # rendered PDFs
-tools/     # the PDF renderer
-video/     # explainer pages (kept out by decision — video ships as video)
+# (gitignore has no trailing comments; keep each pattern on its own line)
+
+# launch drafts, EN + 中文
+posts/
+# working snapshot of the framework
+docs/
+# rendered PDFs
+pdf/
+# the PDF renderer
+tools/
+# explainer pages — kept out by decision; video ships as video
+video/
+
 .DS_Store
