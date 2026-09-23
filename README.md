@@ -16,8 +16,6 @@ The ten open questions at the end are the point, not the gaps. Several of them c
 
 **Each open question is an [issue](../../issues). Argue there.** Disagreement is more useful to me than agreement.
 
-A live version you can comment on inline, sentence by sentence, is here: **[One Earth Day. Two Days of Life.](https://claude.ai/code/artifact/5cc72132-7801-4c10-aeb9-24bf5d395706)**
-
 Nothing has been built. That is the invitation.
 
 — **Lee Nee Jie**, 2026
