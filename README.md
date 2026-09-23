@@ -4,6 +4,8 @@
 
 **A framework for using the hours we sleep.**
 
+By **Lee Nee Jie** · Licensed [CC BY 4.0](LICENSE) — share it, translate it, build on it; credit the author.
+
 You decide what you dream — where you go, how long you stay, and whether anyone comes with you at all. When you do want people, it rests on one claim: **there is no better way to know a person than spending time with them.**
 
 ---
@@ -17,6 +19,8 @@ The ten open questions at the end are the point, not the gaps. Several of them c
 A live version you can comment on inline, sentence by sentence, is here: **[One Earth Day. Two Days of Life.](https://claude.ai/code/artifact/5cc72132-7801-4c10-aeb9-24bf5d395706)**
 
 Nothing has been built. That is the invitation.
+
+— **Lee Nee Jie**, 2026
 
 ---
 
@@ -276,7 +280,7 @@ And the strategic point: this needs no neurotech. It does not claim to enter rea
 
 ## Where this came from
 
-A dream, on the night of 22 September 2026. The dreamer woke at midnight to write it down.
+A dream, on the night of 22 September 2026. I woke at midnight to write it down.
 
 The dream got the hard parts right: two overlapping social graphs, friction on movement, consent-gated identity, nested layers of sleep, and a secrecy rule whose reason only surfaced hours later, when it turned out to be the load-bearing wall.
 
