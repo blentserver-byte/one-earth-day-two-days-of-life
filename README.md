@@ -148,7 +148,7 @@ Real problems, not placeholders. Several could change the whole shape. **This is
 2. **What comes back with you?** The premise promises you return more effective in your life. Right now nothing crosses from the trip into the camp, or the camp into your real day. The largest unpaid promise here.
 3. **Should anything in the camp be hard?** The camp removes money, chores, illness and logistics on purpose — that is exactly what lets someone whose real life has shut them out arrive as an equal. But it means you only ever meet people in good weather, and friction is where much of what you need to know about a person shows up. Does the camp need something that can go wrong, cost something, or oblige one person to be inconvenienced for another? Or would adding friction close the very gates this was built to open?
 4. **Free exit versus continuity.** The camp needs people to show up night after night, and we have guaranteed there is no cost to leaving. How do you build something that depends on presence while refusing to charge for absence?
-5. **If nobody has to socialise, why is there a camp?** Going alone and going with people you already know are first-class uses. But someone who only ever wants those does not need a camp, a timetable, a house or a luggage rule — they need a destination menu. What holds the place together once its social core is optional?
+5. **Does the camp empty itself?** The fast path through a camp-day is about two minutes — wake, agree tonight's trip, sleep — and anyone who only wants the trip, or only wants to go alone, will take it every time. That is a legitimate use. But the camp's only content is other people. So if everyone who has already found their team takes the fast path, the camp stands empty for exactly the people who need it most: the ones who have not found anyone yet. Nothing currently gives a settled player a reason to linger. Is forced rotation enough to counter that, or does lingering itself need a reason?
 6. **What actually happens in a class?** Forced rotation is the purpose. The activity is undesigned.
 7. **How long is a season?** Long enough that a mutual reveal is earned, short enough that people finish.
 8. **What is a house for?** You do not travel with your housemates. So what is the hour before sleep actually for?
@@ -179,7 +179,9 @@ An ordinary life with everything except connection stripped out. No work, no com
 
 Cafés are where you find people. Planning is where you commit to the people you already have. The person you met at lunch is not in the room when your team decides the night — and that gap is where most of the camp's tension lives.
 
-Classes exist to stop the map from settling. Any group of strangers calcifies within days. Forced rotation is the only reason someone outside a formed clique gets another chance.
+Classes exist to stop the map from settling. Any group of strangers calcifies within days, and forced rotation is the only reason someone outside a formed clique gets another chance.
+
+They do a second job that matters just as much: **they keep the camp populated.** A player who has already found their team has no reason to linger — the fast path through a camp-day is about two minutes. Classes are what put settled people back in front of strangers anyway. Take them out and the camp hollows from the top down, leaving it empty for exactly the people who need it.
 
 ## The trip
 
