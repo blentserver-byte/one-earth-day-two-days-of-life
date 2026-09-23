@@ -1,3 +1,5 @@
+**English** · [中文](README.zh-CN.md)
+
 # One Earth Day. Two Days of Life.
 
 **A framework for using the hours we sleep.**
